@@ -159,7 +159,7 @@ sudo chkconfig nginx on
 
 To check the output of the App, we can check using the Web-Tier-Instance public IP. But before checking lets open port no 80 with http, Anywhere IPv4, 0.0.0.0/0 ---> Save rules ----> Now paste the pubic ip of Web-Tier-Instance in new tab of browser ----> You will see the app ----> Enter the data in the app
 ```
-This is about 3 tier architecture with HA and Fault Tolerance.
+
 
 
 
