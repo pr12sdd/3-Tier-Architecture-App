@@ -1,5 +1,11 @@
 # 3-Tier-Architecture-App
 
+
+
+<img width="1280" height="582" alt="image" src="https://github.com/user-attachments/assets/b47ab29a-a5c4-4964-8b5b-09e461fe9063" />
+
+
+
 ### Phase 1: VPC Creation:
 - Design and create a Virtual Private Cloud (VPC) to serve as the foundation for the project infrastructure.
 ### Phase 2: S3 Bucket and IAM Role Setup:
