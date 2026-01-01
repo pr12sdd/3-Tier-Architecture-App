@@ -1,6 +1,6 @@
 # 3-Tier-Architecture-App
 
-In this repo i have deployed 3 tier architecture app consisting frontend (React js) , backend (node js) and Database (mysql) using aws services such as RDS for storing database , S3 bucket for storing application code , Internet Gateway for exposing application to the public using external ALB (Application Load Balancer) , NAT Gateway for private subnet for accessing network , ec2 instance as a server. In this Infrastructure i have basically used two avalibilty zones for higher availibility of the Application supported with External ALB and Internal ALB for HA and Fault Tolerance.
+In this repo i have deployed 3 tier architecture app consisting frontend (React js) , backend (node js) and Database (mysql) using aws services such as RDS for storing database , S3 bucket for storing application code , Internet Gateway for exposing application to the public using external ALB (Application Load Balancer) , NAT Gateway for private subnet for accessing network , ec2 instance as a server. In this Infrastructure i have basically used two avalibilty zones supported with External ALB and Internal ALB for HA and Fault Tolerance.
 
 
 
